@@ -101,7 +101,7 @@ You will see a list of commits that you have made to this repository. The most r
 
 A valid submission will look something like (this is just an example!)
 
-https://github.com/rdpeng/RepData_PeerAssessment1
+https://github.com/Donpancho/RepData_PeerAssessment
 
 7c376cc5447f11537f8740af8e07d6facc3d9645Introduction
 
@@ -206,7 +206,7 @@ You will see a list of commits that you have made to this repository. The most r
 
 A valid submission will look something like (this is just an example!)
 
-https://github.com/rdpeng/RepData_PeerAssessment1
+https://github.com/Donpancho/RepData_PeerAssessment
 
 7c376cc5447f11537f8740af8e07d6facc3d9645Introduction
 
@@ -311,7 +311,7 @@ You will see a list of commits that you have made to this repository. The most r
 
 A valid submission will look something like (this is just an example!)
 
-https://github.com/rdpeng/RepData_PeerAssessment1
+https://github.com/Donpancho/RepData_PeerAssessment
 
 7c376cc5447f11537f8740af8e07d6facc3d9645Introduction
 
@@ -416,7 +416,7 @@ You will see a list of commits that you have made to this repository. The most r
 
 A valid submission will look something like (this is just an example!)
 
-https://github.com/rdpeng/RepData_PeerAssessment1
+https://github.com/Donpancho/RepData_PeerAssessment
 
 7c376cc5447f11537f8740af8e07d6facc3d9645Introduction
 
@@ -521,7 +521,7 @@ You will see a list of commits that you have made to this repository. The most r
 
 A valid submission will look something like (this is just an example!)
 
-https://github.com/rdpeng/RepData_PeerAssessment1
+https://github.com/Donpancho/RepData_PeerAssessment
 
 7c376cc5447f11537f8740af8e07d6facc3d9645Introduction
 
